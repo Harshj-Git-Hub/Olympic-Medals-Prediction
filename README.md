@@ -17,11 +17,11 @@ Here in this Linear Regession based Machine Learning project, we'll use data fro
 
 ## Code
 
-You can find the code for this project [here]().
+You can find the code for this project [here](https://github.com/Harshj-Git-Hub/Olympic-Medals-Prediction/tree/main).
 
 File overview:
 
-* `machine_learning.ipynb` - the main project code
+* `Olympic-Medals-Prediction.ipynb` - the main project code
 
 
 * Python packages
